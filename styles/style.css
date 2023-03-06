@@ -1,0 +1,50 @@
+img {
+    width: 550px;
+    height: 400px;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: brown;
+}
+
+h3 {
+    color: darkgreen;
+}
+
+h4 {
+    color: darkred;
+}
+
+h5 {
+    color: fuchsia;
+}
+
+h6 {
+    color: gold;
+}
+p, pre, q {
+    color: black;
+    background-color: red;
+}
+
+p {
+    font-size: 24px;
+}
+
+a {
+    color: aqua;
+    border: 1px solid blueviolet;
+}
+p {
+    display: inline;
+}
+a {
+    display: block;
+}
+p {
+    border: 1px solid black;
+}
